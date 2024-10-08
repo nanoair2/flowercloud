@@ -19,10 +19,6 @@
 网易云音乐解锁：特设中国专用网易云音乐解锁节点，为国内用户提供更多便利。
 流媒体解锁：强大的流媒体解锁能力，优化用户观看Netflix、Disney+等平台的体验。
 
-## FlowerCloud 花云机场优惠码
-
-虽然目前暂无特别的优惠码，但用户在 [FlowerCloud 花云机场官网](https://flowercloud.net/aff.php?aff=4046) 订阅年付套餐时可享受一定的优惠，进一步增加性价比。
-
 
 
 ## FlowerCloud 花云机场怎么样
